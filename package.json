@@ -4,9 +4,9 @@
   "description": "Static website for Fancy Gourmand business consulting",
   "type": "module",
   "scripts": {
-    "dev": "node server.js",
+    "dev": "vercel dev",
     "build": "echo 'Static site - no build required'",
-    "start": "node server.js"
+    "start": "vercel dev"
   },
   "dependencies": {
     "resend": "^3.2.0",
