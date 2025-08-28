@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/contact.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/subscribe.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
